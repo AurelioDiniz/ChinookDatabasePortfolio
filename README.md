@@ -29,3 +29,15 @@ Na CTE criada com o nome TotalGastoPorCliente, identificamos os valores gastos e
 <a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/SQL/Chinook%20-%20Clientes.sql">Clique aqui</a> e acesse o script SQL no Github.
 
 <br><br>
+
+## Análise de Vendedores
+<img align="right" width="500" height="320" src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/Chinook%20-%20Vendedor%20SQL.png">
+A análise de vendedores teve como objetivo identificar no volume total das faturas, o desempenho dos vendedores no período total e qual o número total de clientes de cada um deles.
+Sendo assim, podemos observar que apenas 3 vendedores tiveram resultados no período, concluindo que: <br><br>
+- Margaret Park obteve melhor desempenho, cerca de 34,9% total de vendas com 20 clientes <br>
+- Mesmo com um número de 21 clientes, Jane Peacock obteve 34,7% total de vendas no período <br>
+- Steve Johnson correspondeu a 30,3% da receita total com 18 clientes <br>
+<br>
+<a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/SQL/Chinook%20-%20Vendedores.sql">Clique aqui</a> e acesse o script SQL no Github.
+
+<br><br>
