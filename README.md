@@ -57,11 +57,32 @@ Concluímos que: <br><br>
 
 O SQL é uma ferramenta essencial para análise, aprimoramento e manipulação de dados diretamente na fonte, permitindo um acesso rápido e preciso às informações. 
 No entanto, sua abordagem visual é limitada, já que os dados são sempre apresentados em formato de tabela. 
-Isso significa que, para visualizar as informações de diferentes maneiras, é necessário reescrever as consultas, tornando a análise menos dinâmica em comparação com dashboards interativos.
+Isso significa que, para visualizar as informações de diferentes maneiras, é necessário reescrever as consultas, tornando a análise menos dinâmica em comparação com dashboards interativos. 
 
 Por isso, o SQL deve ser o primeiro passo na exploração de um banco de dados, garantindo a validação das informações antes de utilizá-las em ferramentas como o Power BI. 
 Dessa forma, evitamos inconsistências e garantimos que as visualizações sejam construídas sobre uma base confiável.
 No fim das contas, não existe uma ferramenta superior à outra, mas sim a mais adequada.
 
 <br><br>
+
+## Apresentação no Power BI
+<img align="right" width="500"  src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/chinook%20dashboard.png">
+Utilizando o Power Bi, desenvolvemos um Dashboard interativo e visual. 
+As análises foram possíveis através de códigos DAX, onde o foco da apresentação foi demonstrar os principais indicadores das respectivas consultas realizadas no SQL. <br>
+Sendo assim, podemos concluir que: <br><br>
+- Rock é o gênero musical que mais vendeu no período, com cerca de 28% das vendas totais <br>
+- Aproximadamente, a média de vendas anuais é de 14.625 mil <br>
+- O melhor desempenho de vendas foi no ano de 2011 com cerca de 20,3% das vendas totais <br>
+<br><br>
+<a href="https://app.powerbi.com/groups/me/reports/b611d5ad-a277-4de9-8a9f-99e30f23cca5/ab3e8a3f0a4878d2c9a8?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Chinook.
+<br>
+<a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/POWERBI/Chinook%20Dashboard.pbix" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<br><br>
+
+## Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/AurelioDiniz/Portfolio/blob/main/linguagens/sql.png">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/AurelioDiniz/Portfolio/blob/main/linguagens/power%20bi.png">
+</div>
+
 
