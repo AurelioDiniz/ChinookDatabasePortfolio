@@ -74,7 +74,7 @@ Sendo assim, podemos concluir que: <br><br>
 - Aproximadamente, a média de vendas anuais é de 14.625 mil <br>
 - O melhor desempenho de vendas foi no ano de 2011 com cerca de 20,3% das vendas totais <br>
 <br><br>
-<a href="https://app.powerbi.com/groups/me/reports/b611d5ad-a277-4de9-8a9f-99e30f23cca5/ab3e8a3f0a4878d2c9a8?experience=power-bi" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Chinook.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOTI4OTU0NjgtYzUwOC00ZjBkLWIyYjQtYmU1NmViYjRjNGFiIiwidCI6Ijg3YmVhYjI1LTZlOGQtNGMxZC05MjU4LWZmM2RmOTZlNTcyNyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Chinook.
 <br>
 <a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/POWERBI/Chinook%20Dashboard.pbix" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
