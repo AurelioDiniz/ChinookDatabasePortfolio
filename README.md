@@ -14,7 +14,7 @@ As consultas foram: <br><br>
 -  Vendas por Gênero Musical <br>
 -  Vendas por Artista <br>
 -  Vendas por Música <br>
--  Vendas por mês <br>
+-  Vendas por Mês <br>
 <br>
 <a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/SQL/Chinook%20-%20Vis%C3%A3o%20Geral.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 
