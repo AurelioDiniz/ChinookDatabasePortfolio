@@ -1,5 +1,6 @@
 # Análise Base de Dados Chinook
-A base de dados Chinook representa um cenário realista de uma loja de musical digital. O objetivo inicial é realizar uma análise exploratória de suas tabelas relacionadas a clientes, álbuns, músicas, artistas, gêneros musicais, vendas e funcionários, podendo assim identificar quais os principais indicadores que impactam na Receita Total da empresa do ano de 2009 a 2013.
+A base de dados Chinook representa um cenário realista de uma loja de musical digital. 
+O objetivo inicial é realizar uma análise exploratória de suas tabelas relacionadas a clientes, álbuns, músicas, artistas, gêneros musicais, vendas e funcionários, podendo assim identificar quais os principais indicadores que impactam na Receita Total da empresa do ano de 2009 a 2013.
 
 Para executar cada consulta de SQL utilizada nesta análise, basta realizar o download do arquivo Chinook+v13.0.1742.0.bak e anexá-lo ao SQL Server.
 <br><br>
@@ -52,7 +53,7 @@ Concluímos que: <br><br>
 
 <br><br>
 
-##Conclusão Técnica do SQL
+## Conclusão Técnica do SQL
 
 O SQL é uma ferramenta essencial para análise, aprimoramento e manipulação de dados diretamente na fonte, permitindo um acesso rápido e preciso às informações. 
 No entanto, sua abordagem visual é limitada, já que os dados são sempre apresentados em formato de tabela. 
