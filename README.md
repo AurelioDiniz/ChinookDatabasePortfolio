@@ -76,7 +76,7 @@ Sendo assim, podemos concluir que: <br><br>
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTI4OTU0NjgtYzUwOC00ZjBkLWIyYjQtYmU1NmViYjRjNGFiIiwidCI6Ijg3YmVhYjI1LTZlOGQtNGMxZC05MjU4LWZmM2RmOTZlNTcyNyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa Chinook.
 <br>
-<a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/POWERBI/Chinook%20Dashboard.pbix" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<a href="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/raw/refs/heads/main/POWERBI/Chinook%20Dashboard.pbix" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
 
 ## Ferramentas e linguagens utilizadas
