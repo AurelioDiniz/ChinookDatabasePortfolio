@@ -66,7 +66,7 @@ No fim das contas, não existe uma ferramenta superior à outra, mas sim a mais 
 <br><br>
 
 ## Apresentação no Power BI
-<img align="right" width="500"  src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/chinook%20dashboard.png">
+<img align="right" width="500"  src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/main/Imagens/CHINOOK%20VIS%C3%83O%20GERAL%20DB.png?raw=true">
 Utilizando o Power Bi, desenvolvemos um Dashboard interativo e visual. 
 As análises foram possíveis através de códigos DAX, onde o foco da apresentação foi demonstrar os principais indicadores das respectivas consultas realizadas no SQL. <br>
 Sendo assim, podemos concluir que: <br><br>
