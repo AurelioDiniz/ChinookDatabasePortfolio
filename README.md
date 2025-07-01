@@ -63,7 +63,7 @@ Por isso, o SQL deve ser o primeiro passo na exploração de um banco de dados, 
 Dessa forma, evitamos inconsistências e garantimos que as visualizações sejam construídas sobre uma base confiável.
 No fim das contas, não existe uma ferramenta superior à outra, mas sim a mais adequada.
 
-<br><br>
+<br>
 
 ## Apresentação no Power BI
 <img align="right" width="500"  src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/abf00383db548762d37d85e0885aecde049a1a1f/Imagens/Chinook%20vis%C3%A3o%20geral.png">
