@@ -81,12 +81,7 @@ Promoções sazonais ou comemorativas, inspiradas nos picos de vendas anteriores
 Aprimoramento da experiência do usuário na plataforma, com base no perfil dos consumidores mais ativos.
 
 Assim, o relatório deixou de ser apenas uma ferramenta de consulta e passou a ser essencial para embasar decisões mais rápidas, personalizadas e orientadas por dados — fortalecendo o relacionamento com os clientes e potencializando o crescimento da loja no mercado digital.
-Utilizando o Power Bi, desenvolvemos um Dashboard interativo e visual. 
-As análises foram possíveis através de códigos DAX, onde o foco da apresentação foi demonstrar os principais indicadores das respectivas consultas realizadas no SQL. <br>
-Sendo assim, podemos concluir que: <br><br>
-- Rock é o gênero musical que mais vendeu no período, com cerca de 28% das vendas totais <br>
-- Aproximadamente, a média de vendas anuais é de 14.625 mil <br>
-- O melhor desempenho de vendas foi no ano de 2011 com cerca de 20,3% das vendas totais <br>
+
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTI4OTU0NjgtYzUwOC00ZjBkLWIyYjQtYmU1NmViYjRjNGFiIiwidCI6Ijg3YmVhYjI1LTZlOGQtNGMxZC05MjU4LWZmM2RmOTZlNTcyNyJ9" target="_blank">Clique aqui</a> e acesse a solução desenvolvida para a empresa Chinook.
 <br>
