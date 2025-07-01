@@ -72,7 +72,7 @@ A implementação do relatório de vendas no Power BI proporcionou uma transform
 
 Os dados revelaram que o gênero rock foi o mais vendido, com 28% das vendas totais, e que o artista Iron Maiden liderou em receita, somando $4.700 mil em vendas. A média anual de vendas foi de aproximadamente $14.625 mil, com destaque para o ano de 2011, que concentrou 20,3% das vendas totais, totalizando $14.900 mil.
 
-Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br><br>
+Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br>
 
 Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden;
 Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas;
