@@ -71,7 +71,7 @@ No fim das contas, não existe uma ferramenta superior à outra, mas sim a mais 
 A implementação do relatório de vendas no Power BI proporcionou uma transformação significativa na gestão da loja de música digital Chinook. Com visualizações interativas e objetivas, tornou-se possível monitorar em tempo real o desempenho de músicas, artistas e álbuns, além de identificar padrões e tendências de consumo.<br>
 Os dados revelaram que o gênero rock foi o mais vendido, com 28% das vendas totais, e que o artista Iron Maiden liderou em receita, somando $4.700 mil em vendas. A média anual de vendas foi de aproximadamente $14.625 mil, com destaque para o ano de 2011, que concentrou 20,3% das vendas totais, totalizando $14.900 mil.<br>
 
-Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br><br>
+Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br>
 - Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden; <br>
 - Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas; <br>
 - Segmentação de clientes por comportamento de compra, permitindo ações personalizadas de remarketing; <br>
