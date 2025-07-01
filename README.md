@@ -68,19 +68,17 @@ No fim das contas, não existe uma ferramenta superior à outra, mas sim a mais 
 ## Apresentação no Power BI
 <img align="right" width="500"  src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/abf00383db548762d37d85e0885aecde049a1a1f/Imagens/Chinook%20vis%C3%A3o%20geral.png">
 
-A implementação do relatório de vendas no Power BI proporcionou uma transformação significativa na gestão da loja de música digital Chinook. Com visualizações interativas e objetivas, tornou-se possível monitorar em tempo real o desempenho de músicas, artistas e álbuns, além de identificar padrões e tendências de consumo.
+A implementação do relatório de vendas no Power BI proporcionou uma transformação significativa na gestão da loja de música digital Chinook. Com visualizações interativas e objetivas, tornou-se possível monitorar em tempo real o desempenho de músicas, artistas e álbuns, além de identificar padrões e tendências de consumo.<br>
+Os dados revelaram que o gênero rock foi o mais vendido, com 28% das vendas totais, e que o artista Iron Maiden liderou em receita, somando $4.700 mil em vendas. A média anual de vendas foi de aproximadamente $14.625 mil, com destaque para o ano de 2011, que concentrou 20,3% das vendas totais, totalizando $14.900 mil.<br>
 
-Os dados revelaram que o gênero rock foi o mais vendido, com 28% das vendas totais, e que o artista Iron Maiden liderou em receita, somando $4.700 mil em vendas. A média anual de vendas foi de aproximadamente $14.625 mil, com destaque para o ano de 2011, que concentrou 20,3% das vendas totais, totalizando $14.900 mil.
+Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br><br>
+Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden; <br>
+Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas; <br>
+Segmentação de clientes por comportamento de compra, permitindo ações personalizadas de remarketing; <br>
+Promoções sazonais ou comemorativas, inspiradas nos picos de vendas anteriores, como os registrados em 2011; <br>
+Aprimoramento da experiência do usuário na plataforma, com base no perfil dos consumidores mais ativos. <br>
 
-Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br>
-
-Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden;
-Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas;
-Segmentação de clientes por comportamento de compra, permitindo ações personalizadas de remarketing;
-Promoções sazonais ou comemorativas, inspiradas nos picos de vendas anteriores, como os registrados em 2011;
-Aprimoramento da experiência do usuário na plataforma, com base no perfil dos consumidores mais ativos.
-
-Assim, o relatório deixou de ser apenas uma ferramenta de consulta e passou a ser essencial para embasar decisões mais rápidas, personalizadas e orientadas por dados — fortalecendo o relacionamento com os clientes e potencializando o crescimento da loja no mercado digital.
+Assim, o relatório deixou de ser apenas uma ferramenta de consulta e passou a ser essencial para embasar decisões mais rápidas, personalizadas e orientadas por dados — fortalecendo o relacionamento com os clientes e potencializando o crescimento da loja no mercado digital. <br>
 
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOTI4OTU0NjgtYzUwOC00ZjBkLWIyYjQtYmU1NmViYjRjNGFiIiwidCI6Ijg3YmVhYjI1LTZlOGQtNGMxZC05MjU4LWZmM2RmOTZlNTcyNyJ9" target="_blank">Clique aqui</a> e acesse a solução desenvolvida para a empresa Chinook.
