@@ -67,6 +67,20 @@ No fim das contas, não existe uma ferramenta superior à outra, mas sim a mais 
 
 ## Apresentação no Power BI
 <img align="right" width="500"  src="https://github.com/AurelioDiniz/ChinookDatabasePortfolio/blob/abf00383db548762d37d85e0885aecde049a1a1f/Imagens/Chinook%20vis%C3%A3o%20geral.png">
+
+A implementação do relatório de vendas no Power BI proporcionou uma transformação significativa na gestão da loja de música digital Chinook. Com visualizações interativas e objetivas, tornou-se possível monitorar em tempo real o desempenho de músicas, artistas e álbuns, além de identificar padrões e tendências de consumo.
+
+Os dados revelaram que o gênero rock foi o mais vendido, com 28% das vendas totais, e que o artista Iron Maiden liderou em receita, somando $4.700 mil em vendas. A média anual de vendas foi de aproximadamente $14.625 mil, com destaque para o ano de 2011, que concentrou 20,3% das vendas totais, totalizando $14.900 mil.
+
+Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br><br>
+
+Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden;
+Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas;
+Segmentação de clientes por comportamento de compra, permitindo ações personalizadas de remarketing;
+Promoções sazonais ou comemorativas, inspiradas nos picos de vendas anteriores, como os registrados em 2011;
+Aprimoramento da experiência do usuário na plataforma, com base no perfil dos consumidores mais ativos.
+
+Assim, o relatório deixou de ser apenas uma ferramenta de consulta e passou a ser essencial para embasar decisões mais rápidas, personalizadas e orientadas por dados — fortalecendo o relacionamento com os clientes e potencializando o crescimento da loja no mercado digital.
 Utilizando o Power Bi, desenvolvemos um Dashboard interativo e visual. 
 As análises foram possíveis através de códigos DAX, onde o foco da apresentação foi demonstrar os principais indicadores das respectivas consultas realizadas no SQL. <br>
 Sendo assim, podemos concluir que: <br><br>
