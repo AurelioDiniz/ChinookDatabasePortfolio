@@ -72,11 +72,11 @@ A implementação do relatório de vendas no Power BI proporcionou uma transform
 Os dados revelaram que o gênero rock foi o mais vendido, com 28% das vendas totais, e que o artista Iron Maiden liderou em receita, somando $4.700 mil em vendas. A média anual de vendas foi de aproximadamente $14.625 mil, com destaque para o ano de 2011, que concentrou 20,3% das vendas totais, totalizando $14.900 mil.<br>
 
 Com esses insights, foi possível identificar oportunidades estratégicas para impulsionar os resultados da loja, como: <br><br>
-Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden; <br>
-Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas; <br>
-Segmentação de clientes por comportamento de compra, permitindo ações personalizadas de remarketing; <br>
-Promoções sazonais ou comemorativas, inspiradas nos picos de vendas anteriores, como os registrados em 2011; <br>
-Aprimoramento da experiência do usuário na plataforma, com base no perfil dos consumidores mais ativos. <br>
+- Campanhas de marketing direcionadas para fãs de rock, especialmente com foco em artistas de alto desempenho como o Iron Maiden; <br>
+- Criação de playlists promocionais e pacotes especiais para gêneros e artistas com maior volume de vendas; <br>
+- Segmentação de clientes por comportamento de compra, permitindo ações personalizadas de remarketing; <br>
+- Promoções sazonais ou comemorativas, inspiradas nos picos de vendas anteriores, como os registrados em 2011; <br>
+- Aprimoramento da experiência do usuário na plataforma, com base no perfil dos consumidores mais ativos. <br>
 
 Assim, o relatório deixou de ser apenas uma ferramenta de consulta e passou a ser essencial para embasar decisões mais rápidas, personalizadas e orientadas por dados — fortalecendo o relacionamento com os clientes e potencializando o crescimento da loja no mercado digital. <br>
 
